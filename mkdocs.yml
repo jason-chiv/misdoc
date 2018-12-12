@@ -1,0 +1,16 @@
+site_name: CellCard MIS Documents
+nav:
+    - Home: index.md
+    - Project List:
+        - DWH Profilling: dwh.md
+        - Report Migration: migration.md
+        - BA Process Flow: ba.md
+    - About: about.md
+theme: readthedocs
+highlightjs: true
+hljs_languages:
+    - yaml
+    - rust
+extra_css: [extra.css]
+
+
